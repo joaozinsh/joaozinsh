@@ -5,8 +5,8 @@
 - I’m a Linux fan :penguin:
 
 <p>
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=joaozinsh&show_icons=true&theme=dracula&locale=en" alt="joaozinsh" />
-  <img align="center" height="160em"src="https://github-readme-stats.vercel.app/api/top-langs?username=joaozinsh&show_icons=true&theme=dracula&locale=en&layout=compact" alt="joaozinsh" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaozinsh&show_icons=true&theme=dracula&locale=en" alt="joaozinsh" />
+  <img align="center" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs?username=joaozinsh&show_icons=true&theme=dracula&locale=en&layout=compact" alt="joaozinsh" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
