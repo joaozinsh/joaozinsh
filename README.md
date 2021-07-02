@@ -4,6 +4,8 @@
 - I’m currently learning to be a Full Stack Developer :computer:
 - I’m a Linux fan :penguin:
 
+<img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif">
+
 <p>
   <img align="left" height="175em" src="https://github-readme-stats.vercel.app/api?username=joaozinsh&show_icons=true&theme=dracula&locale=en" alt="joaozinsh" />
   <img align="center" height="175em"src="https://github-readme-stats.vercel.app/api/top-langs?username=joaozinsh&show_icons=true&theme=dracula&locale=en&layout=compact" alt="joaozinsh" />
